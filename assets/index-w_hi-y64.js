@@ -274,8 +274,8 @@ const Se = "_chapterContainer_1mxwo_19",
                         }
                     }), e.jsx("button", {
                         className: k.button,
-                        onClick: () => window.open("https://docs.hippo-ai.pro/", "_blank"),
-                        children: "Read the Whitepaper"
+                        onClick: () => window.open("https://river.hippo-ai.pro/", "_blank"),
+                        children: "Explorer"
                     })]
                 })]
             }), s === 12 && e.jsxs("div", {
