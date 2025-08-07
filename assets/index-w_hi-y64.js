@@ -274,7 +274,7 @@ const Se = "_chapterContainer_1mxwo_19",
                         }
                     }), e.jsx("button", {
                         className: k.button,
-                        onClick: () => window.open("https://whitepaper.hippo-ai.pro/", "_blank"),
+                        onClick: () => window.open("https://docs.hippo-ai.pro/", "_blank"),
                         children: "Read the Whitepaper"
                     })]
                 })]
@@ -1714,7 +1714,7 @@ const Se = "_chapterContainer_1mxwo_19",
             },{
                 name: "Whitepapaer",
                 icon: "/icons/gitbook-svgrepo-com.svg",
-                link: "https://whitepaper.hippo-ai.pro/"
+                link: "https://docs.hippo-ai.pro/"
             }, {
                 name: "Explorer",
                 icon: "/assets/circle-D-e5e94b.png",

@@ -516,7 +516,7 @@ const ge = "/assets/btn-CpsUEjjw.png",
                             }
                         }), e.jsx("button", {
                             className: t.button01,
-                            onClick: () => window.open("https://whitepaper.hippo-ai.pro/", "_blank"),
+                            onClick: () => window.open("https://docs.hippo-ai.pro/", "_blank"),
                             children: "Read the Whitepaper"
                         })]
                     })
